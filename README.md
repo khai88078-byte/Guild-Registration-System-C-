@@ -1,4 +1,4 @@
-# Guild-Registration-System-C-
+# Guild-Registration-System-Cpp
 
 This is a C++ command-line application built to simulate an RPG Guild Registration System. It was developed as a personal project to practice foundational C++ concepts, data structures, and terminal UI design.
 
